@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Typography
+title: After payment
 parent: Redirecting
-nav_order: 4
+nav_order: 2
 ---
 
 # Typography Utilities
