@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Searching records
-nav_order: 6
+title: Payment Status
+nav_order: 5
 ---
 
 # Configuration

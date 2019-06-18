@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Searching records
-nav_order: 6
+title: SOAP API
+nav_order: 10
 ---
 
 # Configuration

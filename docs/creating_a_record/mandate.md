@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Searching records
-nav_order: 6
+title: Mandate
+nav_order: 2
+parent: Creating a Record
 ---
 
 # Configuration

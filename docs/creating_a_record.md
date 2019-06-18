@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Searching records
-nav_order: 6
+title: Creating a Record
+nav_order: 3
+has_children: true 
+permalink: /docs/creating_a_record
 ---
 
 # Configuration

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Searching records
-nav_order: 6
+title: Authentication
+nav_order: 2
 ---
 
 # Configuration

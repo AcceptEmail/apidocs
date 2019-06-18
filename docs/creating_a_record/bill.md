@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Searching records
-nav_order: 6
+title: Bill
+nav_order: 1
+parent: Creating a Record
+has_children: true
+permalink: /docs/creating_a_record/async
 ---
 
 # Configuration

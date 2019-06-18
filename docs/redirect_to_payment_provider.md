@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Searching records
-nav_order: 6
+title: Redirect to payment provider
+nav_order: 7
 ---
 
 # Configuration

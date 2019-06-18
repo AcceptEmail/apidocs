@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Version migration
 nav_order: 2
 ---
 
