@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Configuration
-nav_order: 90
+title: Payment status
+nav_order: 5
 ---
 
 # Configuration
