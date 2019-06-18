@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Typography
-parent: Utilities
+parent: Redirecting
 nav_order: 4
 ---
 
