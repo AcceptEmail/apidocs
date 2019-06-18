@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mandatees
+title: Mandates
 parent: Creating a record
 nav_order: 2
 ---
