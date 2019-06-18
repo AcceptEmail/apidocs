@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Markdown kitchen sink
+title: Creating a record
 nav_order: 99
 ---
 
