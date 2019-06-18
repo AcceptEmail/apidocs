@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Buttons
+title: Bills
 parent: Creating a record
-nav_order: 2
+nav_order: 1
 ---
 
 # Buttons

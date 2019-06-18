@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Code
+title: Mandatees
 parent: Creating a record
-nav_order: 6
+nav_order: 2
 ---
 
 # Code
