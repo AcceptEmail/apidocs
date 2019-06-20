@@ -4,5 +4,5 @@ title: Payment status
 nav_order: 5
 ---
 
-# Authentication
+# Payment status
 {: .no_toc }
