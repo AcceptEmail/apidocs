@@ -22,4 +22,4 @@ Both keys will work for authentication, and you can renew them one by one. This 
 
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/254999563' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
-To test the keys, you can use them to log in on the top right corner of the Swagger documentation: : [https://api.acceptemail.com/swagger/ui/index#!/Bill/Bill_Post](https://api.acceptemail.com/swagger/ui/index#!/Bill/Bill_Post)
+To test the keys, you can use them to log in on the top right corner of the Swagger documentation: [https://api.acceptemail.com/swagger/ui/index#!/Bill/Bill_Post](https://api.acceptemail.com/swagger/ui/index#!/Bill/Bill_Post)
