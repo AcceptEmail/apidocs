@@ -3,6 +3,7 @@ layout: default
 title: Creating a record
 nav_order: 3
 has_children: true
+has_toc: false
 permalink: /docs/creating-a-record
 ---
 
