@@ -20,6 +20,5 @@ For technical support regarding our integrations, please contact [support@accept
 
 The Swagger documentation for the API can be found here: 
 
-[<img src="assets/SwaggerLogo.png" alt="SwaggerDocs" style="width:250px;"/>](https://api.acceptemail.com/swagger/ui/index#!/Bill/Bill_Post)
-
+[<img src="assets/SwaggerLogo.png" alt="SwaggerDocs" style="width:250px;"/>](https://api.acceptemail.com/swagger/ui/index#!/Bill/Bill_Post)<br/>
 [https://api.acceptemail.com/swagger/ui/index#!/Bill/Bill_Post](https://api.acceptemail.com/swagger/ui/index#!/Bill/Bill_Post).
