@@ -9,7 +9,7 @@ nav_order: 1
 {: .no_toc }
 
 ### [Create link for use inline, chat or portal](#inline-chat-portal)
-When using AcceptEmail transactions in chat (for agents or chatbots), or when forwarding users to our transaction pages from your portal, only minimal information needs to be sent to our API. It is easiest to use the synchronous version of POST Bill, so that you know the transaction page is available the same instant you get the response.
+When using our links transactions in chat (for agents or chatbots), or when forwarding users to our transaction pages from your portal, only minimal information needs to be sent to our API. It is easiest to use the synchronous version of POST Bill, so that you know the transaction page is available the same instant you get the response.
 
 For instance, to create a transaction for a payment of 12,99 the following JSON object can be POSTed to /v2/Bill:
 ```
@@ -51,7 +51,7 @@ From the response, you can use the ShortURL of the full TransactionURL:
 
 <a id="bulk-sending"></a>
 ### [Bulk sending of Bills through email, text or both](#bulk-sending)
-When sending AcceptEmail transactions through email, it can be useful to add some additional information to your calls, so that this data can be used in the email- or text templates. For instance, it's very common to provide a recipient salutation and address lines.
+When sending bills through email, it can be useful to add some additional information to your calls, so that this data can be used in the email- or text templates. For instance, it's very common to provide a recipient salutation and address lines.
 
 When creating the transactions, it is possible to plan all future communications based on certain conditions. So you can choose to send the transaction through email right away, again through text a week later if it hasn't been paid yet, and finally a few days before expiry.
 

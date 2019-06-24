@@ -7,3 +7,26 @@ nav_order: 2
 
 # Mandates
 {: .no_toc }
+
+### [Sending a mandate through email]
+When you want to send a mandate through email you will need to POST a JSON object like below to /v2/Mandate:
+```
+{
+  "PaymentReference": "123456",
+  "Description": "my description",
+  "Address": {
+    "Email": "contact@accepteasy.com"
+  },
+  "SequenceType": "OneOff",
+  "ToDate": "2020-05-24T11:10:17.7245913Z",
+  "AmountType": "Open",
+  "MaximumAmount": 5400,
+  "Communication": [
+    {
+      "Channel": "Email",
+      "MessageStatus": "All",
+      "MandateStatus": "All"
+    }
+  ]
+}
+```
