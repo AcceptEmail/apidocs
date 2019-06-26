@@ -8,7 +8,7 @@ nav_order: 2
 # Mandates
 {: .no_toc }
 
-### [Sending a mandate through email]
+### Sending a mandate through email
 When you want to send a mandate through email you will need to POST a JSON object like below to /v2/Mandate:
 ```
 {

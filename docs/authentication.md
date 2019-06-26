@@ -9,11 +9,11 @@ nav_order: 2
 
 ## [Obtaining the API Keys](#obtaining-api-keys)
 
-In order to start developing with our REST API, you will need an API key
+Our REST API uses Basic Authentication. In order to start developing with our REST API, you will need a username and password.
 
-Log into the application and select Settings under the Account menu-tab (your account needs Admin or Settings-rights to access this).
+Log into the [application](https://application.acceptemail.com/) and select Settings under the Account menu-tab (your account needs Admin or Settings-rights to access this).
 
-At the REST API Keys Settings, enter a name and keys (or let the app generate the keys)
+At the REST API Keys Settings, enter a username and let the app generate the keys
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/255000672' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 
