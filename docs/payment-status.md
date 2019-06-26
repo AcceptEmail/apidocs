@@ -7,7 +7,7 @@ nav_order: 5
 # Payment status
 {: .no_toc }
 
-### [Realtime and robust payment status updates](#realtime-robust-paymentstatus)
+### Realtime and robust payment status updates
 
 To receive realtime status updates about payments, we can push a webhook to a HTTPS endpoint, [the payment example can be found above](#receive-webhooks-payment).
 

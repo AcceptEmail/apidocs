@@ -8,8 +8,7 @@ nav_order: 6
 {: .no_toc }
 
 
-<a id="search-bills-client"></a>
-### [Searching for bills previously sent to a client](#search-bills-client)
+### Searching for bills previously sent to a client
 Searching for bills previously sent to a client can be done by using the payment reference, or email address, depening on which information is used during the creation of the bills. An example request for searching based on payment reference would be:
 ```
 https://api.acceptemail.com/v2/Search/Bill?paymentReference=1111222233334444

@@ -7,7 +7,7 @@ nav_order: 4
 # Webhooks
 {: .no_toc }
 
-### [Receiving webhooks for bounces, asynchronous creation and payment status](#receive-webhooks)
+### Receiving webhooks for bounces, asynchronous creation and payment status
 
 Webhooks can be used to get realtime feedback on the status of AcceptEmail transactions. Some examples of our webhooks:
 

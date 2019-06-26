@@ -8,7 +8,7 @@ nav_order: 1
 # Redirecting to payment provider
 {: .no_toc }
 
-## [Redirect straight to payment provider](#redirecting)
+## Redirect straight to payment provider
 
 In some cases, it might be useful to have a user skip our transaction page and go straight to the payment provider. This can be achieved by passing a couple of arguments to the url of our landing page.
 ### Bills
