@@ -30,3 +30,6 @@ When you want to send a mandate through email you will need to POST a JSON objec
   ]
 }
 ```
+
+This will result in a request that gives the sender the mandate to make a one-time withdrawal of a maximum of 54 euros, before May 24th 2020.
+The [Swagger docs](https://api.acceptemail.com/swagger/ui/index#!/Mandate/Mandate_Post_v2) give a full overview of the different options and statuses.
