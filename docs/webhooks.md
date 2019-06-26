@@ -22,7 +22,7 @@ Bounce:
 }
 ```
 
-Creation success: 
+Creation success:
 ```
 {
   "ATID": "120b6125-fdfa-4124-a08c-dbf63f38e162",
@@ -32,19 +32,22 @@ Creation success:
   "STATUS": "CreationSucceeded"
 }
 ```
+{only sent for bills (both sync and async): .fs-2 }
 
 Creation error: 
 ```
 {
   "ATID": "120b6125-fdfa-4124-a08c-dbf63f38e162",
-  "ERROR": "APP0225 - Expiry date cannot exceed 1 year from now.",
+  "ERROR":  {
+    "Message": "APP0224 - Expiry date must be in the future."
+  },
   "PaymentReference": "123456",
   "SRRID": "r180205114728321",
   "STATUS": "CreationFailed"
 }
 ```
-<a id="receive-webhooks-payment"></a>
-Payment made: 
+
+Payment made: (for both bills and mandates)
 ```
 {
   "ATID": "120b6125-fdfa-4124-a08c-dbf63f38e162",
