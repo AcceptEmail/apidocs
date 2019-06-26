@@ -32,7 +32,7 @@ Creation success:
   "STATUS": "CreationSucceeded"
 }
 ```
-only sent for bills (both sync and async): {.fs-2 }
+only sent for bills (both sync and async): {:.fs-2 }
 
 Creation error: 
 ```
