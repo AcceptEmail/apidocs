@@ -11,7 +11,9 @@ nav_order: 4
 
 Webhooks can be used to get realtime feedback on the status of AcceptEmail transactions. Some examples of our webhooks:
 
-Bounce: 
+<div class="code-example" markdown="1">
+Bounce
+</div>
 ```
 {
   "ATID": "120b6125-fdfa-4124-a08c-dbf63f38e162",
@@ -22,7 +24,11 @@ Bounce:
 }
 ```
 
-Creation success:
+<div class="code-example" markdown="1">
+Creation success
+only sent for bills (both sync and async) 
+{: .fs-2 }
+</div>
 ```
 {
   "ATID": "120b6125-fdfa-4124-a08c-dbf63f38e162",
@@ -32,10 +38,10 @@ Creation success:
   "STATUS": "CreationSucceeded"
 }
 ```
-only sent for bills (both sync and async) 
-{: .fs-2 }
 
-Creation error: 
+<div class="code-example" markdown="1">
+Creation error
+</div>
 ```
 {
   "ATID": "120b6125-fdfa-4124-a08c-dbf63f38e162",
@@ -48,7 +54,11 @@ Creation error:
 }
 ```
 
-Payment made: (for both bills and mandates)
+<div class="code-example" markdown="1">
+Payment made
+for both bills and mandates
+{: .fs-2 }
+</div>
 ```
 {
   "ATID": "120b6125-fdfa-4124-a08c-dbf63f38e162",
