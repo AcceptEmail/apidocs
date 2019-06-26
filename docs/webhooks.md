@@ -13,7 +13,7 @@ Webhooks can be used to get realtime feedback on the status of AcceptEmail trans
 
 <div class="code-example" markdown="1">
 Bounce
-{: .lh-tight }
+{: .lh-0 }
 </div>
 ```
 {
@@ -27,9 +27,9 @@ Bounce
 
 <div class="code-example" markdown="1">
 Creation success
-{: .fs-5 .lh-tight}
+{: .fs-4 .lh-0}
 only sent for bills (both sync and async) 
-{: .fs-2 .lh-tight}
+{: .fs-2 .lh-0}
 </div>
 ```
 {
@@ -43,7 +43,7 @@ only sent for bills (both sync and async)
 
 <div class="code-example" markdown="1">
 Creation error
-{: .lh-tight }
+{: .lh-0 }
 </div>
 ```
 {
@@ -59,9 +59,9 @@ Creation error
 
 <div class="code-example" markdown="1">
 Payment made
-{: .fs-5 .lh-tight }
+{: .fs-4 .lh-0 }
 for both bills and mandates
-{: .fs-2 .lh-tight }
+{: .fs-2 .lh-0 }
 </div>
 ```
 {
