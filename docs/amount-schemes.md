@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SOAP API
+title: Amount Schemes
 nav_order: 8
 ---
 
